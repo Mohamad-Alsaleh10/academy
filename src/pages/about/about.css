@@ -1,0 +1,32 @@
+.about-content{
+    display: flex
+;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+}
+
+.about-content .img{
+    
+}
+
+.about-content .img img{
+    
+}
+
+.about-content .about-desc{
+
+}
+.about-content .about-desc{
+
+}
+
+.about-content .about-desc .about-title{
+    color: #ff3600;
+    font-size: 30px;
+    font-weight: 700;
+}
+.about-content .about-desc .about-desc-parg{
+    font-size: 19px;
+    color: #3d3d3d;
+}

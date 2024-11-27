@@ -1,0 +1,7 @@
+.splide{
+    height: calc(100vh - 86px);
+
+}
+.splide__track{
+    height: 100%;
+}

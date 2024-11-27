@@ -1,0 +1,44 @@
+.contact-content{
+    display: flex
+    ;
+        justify-content: space-between;
+}
+.contact-content .contact-form{
+    width: 70%;
+    padding: 23px;
+}
+.contact-content .contact-form form{
+    display: flex
+;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.contact-content .contact-form form input , textarea{
+    border: 1px solid #d4d4d4;
+    border-radius: 6px;
+    padding: 11px;
+}
+
+.contact-content .contact-info{
+    padding: 20px;
+    background: #808080ad;
+    color: white;
+}
+
+.contact-info .email , .contact-info .phone{
+display: flex;
+}
+.contact-info .email svg , .contact-info .phone svg{
+    width: 30px;
+    height: 28px;
+}
+.contact-info .email p , .contact-info .phone p{
+
+}
+.contact-info .email {
+
+}
+.contact-info .phone{
+    
+}

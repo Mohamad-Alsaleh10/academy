@@ -1,0 +1,9 @@
+section{
+    padding: 60px 30px;
+}
+
+section .title{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 60px;
+}
